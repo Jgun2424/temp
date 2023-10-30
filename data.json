@@ -1,0 +1,45 @@
+{
+    "SERVICE_DATA": [
+      {
+        "SERVICE_URL":"dry-van",
+        "SERVICE_NAME": "Dry Van",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s",
+        "FADE_DELAY": 100
+      },
+      {
+        "SERVICE_URL":"tempature-controlled",
+        "SERVICE_NAME": "Tempature Controlled",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s",
+        "FADE_DELAY": 200
+      },
+      {
+        "SERVICE_URL":"flat-bed",
+        "SERVICE_NAME": "Flat Bed",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s",
+        "FADE_DELAY": 300
+      },
+      {
+        "SERVICE_URL":"step-deck",
+        "SERVICE_NAME": "Step Deck",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s",
+        "FADE_DELAY": 400
+      },
+      {
+        "SERVICE_URL":"double-drop",
+        "SERVICE_NAME": "Double Drop ",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s"
+      },
+      {
+        "SERVICE_URL":"b-train",
+        "SERVICE_NAME": "B Train",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",
+        "SERVICE_DESC":"s",
+        "FADE_DELAY": 500
+      }
+    ]
+  }
