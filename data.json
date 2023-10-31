@@ -19,41 +19,82 @@
       {
         "SERVICE_URL":"tempature-controlled",
         "SERVICE_NAME": "Tempature Controlled",
-        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/917576656686813185/1167282892720848966/AdobeStock_589326732.jpeg?ex=654d8fe8&is=653b1ae8&hm=4f2e530933984b410fe241e1f50775dfec1917f36de1479ec3a1586c6428a7a2&",        
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
         "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
-        "SERVICE_DESC":"s",
-        "FADE_DELAY": 200
+        "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
+        "FADE_DELAY": 100,
+        "OTHER": [
+          {
+            "OTHER_NAME":"Over dimensional truckload services"
+          },
+          {
+            "OTHER_NAME":"LTL (less than truckload)"
+          }
+        ]
       },
       {
         "SERVICE_URL":"flat-bed",
         "SERVICE_NAME": "Flat Bed",
-        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/840697816820875274/1168419913896034314/AdobeStock_560339662_1.jpeg?ex=6551b2d7&is=653f3dd7&hm=3bc6e07f218ca804948ebaea838fd56a71a7cef320fb94c699e082124b0565b2&",
-        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168774124513017897/image_2023-10-30_215042451.png?ex=6552fcba&is=654087ba&hm=765d742a4b4970e3a9ad01f22afd2e90f20ec58d0dc2767d86322f1d624391c1&",
-        "SERVICE_DESC":"s",
-        "FADE_DELAY": 300
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
+        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
+        "FADE_DELAY": 100,
+        "OTHER": [
+          {
+            "OTHER_NAME":"Over dimensional truckload services"
+          },
+          {
+            "OTHER_NAME":"LTL (less than truckload)"
+          }
+        ]
       },
       {
         "SERVICE_URL":"step-deck",
         "SERVICE_NAME": "Step Deck",
-        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
         "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
-        "SERVICE_DESC":"s",
-        "FADE_DELAY": 400
+        "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
+        "FADE_DELAY": 100,
+        "OTHER": [
+          {
+            "OTHER_NAME":"Over dimensional truckload services"
+          },
+          {
+            "OTHER_NAME":"LTL (less than truckload)"
+          }
+        ]
       },
       {
         "SERVICE_URL":"double-drop",
         "SERVICE_NAME": "Double Drop ",
-        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/839383853830766595/1168774124513017897/image_2023-10-30_215042451.png?ex=6552fcba&is=654087ba&hm=765d742a4b4970e3a9ad01f22afd2e90f20ec58d0dc2767d86322f1d624391c1&",
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
         "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
-        "SERVICE_DESC":"ss"
+        "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
+        "FADE_DELAY": 100,
+        "OTHER": [
+          {
+            "OTHER_NAME":"Over dimensional truckload services"
+          },
+          {
+            "OTHER_NAME":"LTL (less than truckload)"
+          }
+        ]
       },
       {
         "SERVICE_URL":"b-train",
         "SERVICE_NAME": "B Train",
-        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/839383853830766595/1168774124513017897/image_2023-10-30_215042451.png?ex=6552fcba&is=654087ba&hm=765d742a4b4970e3a9ad01f22afd2e90f20ec58d0dc2767d86322f1d624391c1&",
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
         "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
-        "SERVICE_DESC":"s",
-        "FADE_DELAY": 500
+        "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
+        "FADE_DELAY": 100,
+        "OTHER": [
+          {
+            "OTHER_NAME":"Over dimensional truckload services"
+          },
+          {
+            "OTHER_NAME":"LTL (less than truckload)"
+          }
+        ]
       }
     ]
   }
