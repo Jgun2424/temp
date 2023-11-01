@@ -4,22 +4,67 @@
         "SERVICE_URL":"dry-van",
         "SERVICE_NAME": "Dry Van",
         "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
-        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1169300007699103867/Untitled_design.png?ex=6554e67e&is=6542717e&hm=9c6a90d931672dc4c91220dea017cfd1f10c4eefa2d13780c6b4a0673d68c038&",
         "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
         "FADE_DELAY": 100,
         "OTHER": [
           {
-            "OTHER_NAME":"Over dimensional truckload services"
+            "OTHER_NAME": "General merchandise"
           },
           {
-            "OTHER_NAME":"LTL (less than truckload)"
+            "OTHER_NAME": "Consumer goods"
+          },
+          {
+            "OTHER_NAME": "Electronics"
+          },
+          {
+            "OTHER_NAME": "Clothing and apparel"
+          },
+          {
+            "OTHER_NAME": "Furniture"
+          },
+          {
+            "OTHER_NAME": "Appliances"
+          },
+          {
+            "OTHER_NAME": "Food and beverages"
+          },
+          {
+            "OTHER_NAME": "Paper products"
+          },
+          {
+            "OTHER_NAME": "Automotive parts"
+          },
+          {
+            "OTHER_NAME": "Machinery and equipment"
+          },
+          {
+            "OTHER_NAME": "Building materials"
+          },
+          {
+            "OTHER_NAME": "Pharmaceuticals"
+          },
+          {
+            "OTHER_NAME": "Textiles"
+          },
+          {
+            "OTHER_NAME": "Tires"
+          },
+          {
+            "OTHER_NAME": "Wood products"
+          },
+          {
+            "OTHER_NAME": "Construction equipment"
+          },
+          {
+            "OTHER_NAME": "Palletized cargo"
           }
         ]
       },
       {
         "SERVICE_URL":"tempature-controlled",
         "SERVICE_NAME": "Tempature Controlled",
-        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
+        "SERVICE_IMAGE":"https://cdn.discordapp.com/attachments/840697816820875274/1168779594376159282/reefer_main_photo.jpeg?ex=655301d2&is=65408cd2&hm=09d4b4a78f50fa875780433eea7950417c86c32ebaeb000fe2d59112ca1212bb&",
         "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
         "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
         "FADE_DELAY": 100,
@@ -35,8 +80,8 @@
       {
         "SERVICE_URL":"flat-bed",
         "SERVICE_NAME": "Flat Bed",
-        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
-        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779596292952144/flatbed_main_photo.jpeg?ex=655301d2&is=65408cd2&hm=aaded5f16eda8fc5d72421563dd2ae8166dfeec4dfee98d68ade545476f3b5b5&=&width=1007&height=671",
+        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1169306537982971974/Untitled_design.png?ex=6554ec93&is=65427793&hm=9c386d77ebe0e03970459d83fde503ae68fbf042aa182fd2a68dc44d9521704c&",
         "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
         "FADE_DELAY": 100,
         "OTHER": [
@@ -51,8 +96,8 @@
       {
         "SERVICE_URL":"step-deck",
         "SERVICE_NAME": "Step Deck",
-        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
-        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779592354500628/step_deck_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=c6829a8717c346b1ebfa9446d39a56cda68dbc5f0177b59fb003fd443c6a337f&=&width=1007&height=671",
+        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1169333388432375838/Untitlded_design.png?ex=65550594&is=65429094&hm=e2592135384a671200553548c6bebc3d627706281e14c9a6fee145ac1be8b4de&",
         "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
         "FADE_DELAY": 100,
         "OTHER": [
@@ -68,7 +113,7 @@
         "SERVICE_URL":"double-drop",
         "SERVICE_NAME": "Double Drop ",
         "SERVICE_IMAGE":"https://media.discordapp.net/attachments/840697816820875274/1168779593520529408/dryvan_main_photo.jpeg?ex=655301d1&is=65408cd1&hm=5c6110714799e59b611bbe32c091d94aa31228841383c9dbf5b1cf962f9e2659&=&width=1440&height=576",
-        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1168771249179209779/Reefer.png?ex=6552fa0c&is=6540850c&hm=c6eb2ed19cdafb7b5a90791db4d318be1e61134e680274db16cacc7104e1ec83&",
+        "SERVICE_ICON":"https://cdn.discordapp.com/attachments/839383853830766595/1169340594221490237/Untitled_design.png?ex=65550c4a&is=6542974a&hm=39a85c40b947c90a2fbb0d6251f9ce634169d71019dbc324626262cbcd2515ac&",
         "SERVICE_DESC":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis libero at itaque autem nostrum, alias nemo! Consectetur ad provident, expedita eveniet vitae unde assumenda, pariatur soluta atque ab saepe totam accusantium sed rerum, voluptatem voluptate qui? Voluptate cum perspiciatis cupiditate et ut delectus quos corporis impedit deserunt quod fuga odit iusto aspernatur, veritatis quis sed, repudiandae reprehenderit laborum quo odio pariatur enim, expedita fugit. At eaque enim maiores distinctio aut voluptas esse vel fugiat id porro, laborum ipsum reiciendis mollitia veritatis qui nulla tempore! Labore ab, optio assumenda sequi, voluptates quasi praesentium natus corrupti maxime explicabo, atque libero quo eum?",
         "FADE_DELAY": 100,
         "OTHER": [
